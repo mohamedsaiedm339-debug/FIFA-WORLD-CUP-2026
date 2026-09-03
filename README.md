@@ -76,6 +76,12 @@ Data Storytelling
 Football Analytics
 
 This project was a great opportunity to combine my interest in football ⚽ with data analytics 📊, while focusing on how good visualization can transform raw data into an understandable story.
+I'm continuing to build more projects that combine Data Analytics + Business Intelligence + Data Storytelling.
+
+
+
+#PowerBI #DataAnalytics #DataVisualization #DAX #DataStorytelling #BusinessIntelligence #FootballAnalytics #SportsAnalytics #Dashboard #Analytics #PortfolioProject #MicrosoftPowerBI
+
 <img width="1117" height="657" alt="Screenshot 2026-09-03 122614" src="https://github.com/user-attachments/assets/4156f06e-c4a7-4d95-bad3-4836e09fc74b" />
 <img width="1117" height="742" alt="Screenshot 2026-09-03 122556" src="https://github.com/user-attachments/assets/89f2ddc1-0f05-4b98-bc3c-d0b8c5d0ac9f" />
 <img width="1117" height="741" alt="Screenshot 2026-09-03 122538" src="https://github.com/user-attachments/assets/b2151d07-a4dd-490a-9091-bb9b75176a1d" />
@@ -83,8 +89,3 @@ This project was a great opportunity to combine my interest in football ⚽ with
 <img width="1345" height="755" alt="Screenshot 2026-09-03 122455" src="https://github.com/user-attachments/assets/e05fa63f-5938-4d7c-bc16-4138d2571d90" />
 
 
-I'm continuing to build more projects that combine Data Analytics + Business Intelligence + Data Storytelling.
-
-
-
-#PowerBI #DataAnalytics #DataVisualization #DAX #DataStorytelling #BusinessIntelligence #FootballAnalytics #SportsAnalytics #Dashboard #Analytics #PortfolioProject #MicrosoftPowerBI
